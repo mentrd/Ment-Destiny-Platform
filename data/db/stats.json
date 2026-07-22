@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-07-20",
+    "type": "reading_start",
+    "feature": "ziwei",
+    "count": 1
+  },
+  {
+    "date": "2026-07-20",
+    "type": "reading_complete",
+    "feature": "ziwei",
+    "count": 1
+  }
+]
